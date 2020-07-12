@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Swift for iOS, macOS development.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuperNova911)](https://hits.seeyoufarm.com)
+[![GitHub stars](https://img.shields.io/badge/favorite%20lang-C%23-blueviolet)]()
 
 <!--
 **SuperNova911/SuperNova911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
