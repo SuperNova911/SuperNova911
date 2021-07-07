@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning Swift for iOS, macOS development.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuperNova911)](https://hits.seeyoufarm.com)
-[![C#](https://img.shields.io/badge/favorite%20lang-C%23-blueviolet)]()
-[![Swift](https://img.shields.io/badge/and%20also-Swift-orange)]()
+[![Swift](https://img.shields.io/badge/favorite%20lang-Swift-orange)]()
+[![C#](https://img.shields.io/badge/and%20also-C%23-blueviolet)]()
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
